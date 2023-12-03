@@ -1,0 +1,6 @@
+common for redux
+
+1.      npm init
+2.      npm install redux
+for runing app commond is: node inde
+3. npm install axiso redux-thunk
